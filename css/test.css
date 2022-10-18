@@ -1,0 +1,27 @@
+h1 {
+font-size: 30px;
+color: teal;
+} 
+h2 {
+font-size: 20px;
+color:  red;
+}
+.big.uppercase {
+font-size: 40px;
+color: navy;
+}
+.uppercase {
+font-variant: small-caps;
+}
+.big {
+color: aquamarine;
+}
+span {
+color: violet;
+}
+h1 span {
+color: beige;
+}
+body {
+    background-color: lightgoldenrodyellow;
+}
