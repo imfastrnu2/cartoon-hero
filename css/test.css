@@ -4,24 +4,24 @@ color: teal;
 } 
 h2 {
 font-size: 20px;
-color:  red;
+color:  rgb(53, 53, 53);
 }
 .big.uppercase {
 font-size: 40px;
-color: rgb(39, 55, 127);
+color: rgb(13, 66, 31);
 }
 .uppercase {
 font-variant: small-caps;
 }
 .big {
-color: aquamarine;
+color: rgb(23, 31, 59);
 }
 span {
-color: rgb(21, 0, 99);
+color: rgb(3, 77, 64);
 }
 h1 span {
 color: beige;
 }
 body {
-    background-color: rgb(79, 79, 79);
+    background-color: rgb(155, 155, 155);
 }
